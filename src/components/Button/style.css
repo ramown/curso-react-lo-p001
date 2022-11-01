@@ -1,0 +1,12 @@
+.button {
+    width: 100%;
+    background: darkblue;
+    color: aliceblue;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.button:disabled {
+    display: none;
+}
